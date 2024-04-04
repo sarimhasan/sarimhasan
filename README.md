@@ -8,7 +8,7 @@ I am 16 years old, and I've been learning to code for about 2 years. I am still 
 
 *   🌍  I'm based in Karachi, Pakistan
 *   ✉️  You can contact me at [sarimhasanplace123@gmail.com](mailto:sarimhasanplace123@gmail.com)
-*   🚀  I'm currently working on a [Dictionary app](https://sarims-dict.netlify.app/)
+*   🚀  I'm currently working on [my Portfolio](https://sarimhasan.netlify.app/)
 *   🧠  I'm learning I am currently learning Javascript and will further go to React for Frontend Development
 *   😂  Fun Fact: I struggle with procrastination
 <p align="left">
