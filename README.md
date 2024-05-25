@@ -7,7 +7,7 @@ Web Developer and Web Designer
 I am 16 years old, and I've been learning to code for about 2 years. I am still a beginner, but I am trying to improve my coding skills by building real world projects and my goal is to start freelancing in the year 2024.
 
 *   🌍  I'm based in Karachi, Pakistan
-*   ✉️  You can contact me at [sarimhasanplace123@gmail.com](mailto:sarimhasanplace123@gmail.com)
+*   ✉️  You can contact me at [sarimhasanplace123@gmail.com](mailto:sarimhasanplace123@gmail.com) or visit my [website](https://sarimhasan.netlify.app/)
 *   🚀  I'm currently working on [my Portfolio](https://sarimhasan.netlify.app/)
 *   🧠  I am currently doing astro projects and trying to freelance my skills 😊
 *   😂  Fun Fact: I struggle with procrastination
